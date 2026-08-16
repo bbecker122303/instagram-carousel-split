@@ -1,0 +1,5 @@
+# Runtime: no Python packages. Needs system ffmpeg / ffprobe.
+# macOS: brew install ffmpeg
+#
+# Optional, only to build the .app:
+#   python3 -m pip install pyinstaller
